@@ -1,0 +1,17 @@
+{
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ],
+  "description": "First App Try",
+  "env": {
+  },
+  "formation": {
+  },
+  "name": "FirstAppHeroku",
+  "scripts": {
+  },
+  "stack": "heroku-18"
+}
